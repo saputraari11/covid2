@@ -1,0 +1,54 @@
+.pembuka {
+    background-image: url("img/dc2.jpg");
+    background-size: cover;
+}
+
+.about {
+    background-image: url("img/cor.png");
+    background-size: cover;
+}
+
+.bt1 {
+    border: 2px solid #FFE000;
+    color: #FFE000;
+}
+
+.bt1:hover {
+    color: white;
+    background-color: #FFE000;
+}
+
+.bt5 {
+    color: #6DD5FA;
+    border: 2px solid #6DD5FA;
+}
+
+.bt5:hover {
+    color: white;
+    background-color: #6DD5FA;
+}
+
+.bt6 {
+    color: #78ffd6;
+    border: 2px solid #78ffd6;
+}
+
+.bt6:hover {
+    color: white;
+    background-color: #78ffd6;
+}
+
+.bt7 {
+    color: #78ffd6;
+    border: 2px solid #78ffd6;
+}
+
+.bt7:hover {
+    color: white;
+    background-color: #78ffd6;
+}
+
+.content {
+    background-image: url("img/corona2.jpg");
+    background-size: cover;
+}
